@@ -1,0 +1,25 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "code snippets for learning react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetbrij/learning-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "brijesh bollar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meetbrij/learning-react/issues"
+  },
+  "homepage": "https://github.com/meetbrij/learning-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
